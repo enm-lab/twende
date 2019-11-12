@@ -1,0 +1,19 @@
+{
+  "name": "twende",
+  "version": "1.0.0",
+  "description": "trip sharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MwangiMurimi/twende.git/"
+  },
+  "author": "mwangi murimi",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.3.0"
+  },
+  "devDependencies": {}
+}
